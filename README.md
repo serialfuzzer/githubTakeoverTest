@@ -1,2 +1,2 @@
 # randomtest
-test repository for github takeovers
+### this repository was created to test takeovers in domains pointed to github pages
